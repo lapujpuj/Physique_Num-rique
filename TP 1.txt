@@ -1,0 +1,5 @@
+1.1 La méthode d’Euler
+
+(1) La figure 1 nous montre que la méthode d'Euler permet d'approcher la solution analytique
+    Ensuite les figures 2 et 3 nous permette de voir que l'erreur est linéaire.
+
